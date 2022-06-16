@@ -1,4 +1,4 @@
-package desafios.D_media;
+package br.tec.db.desafios.D_media;
 
 /**
  * Media da prova

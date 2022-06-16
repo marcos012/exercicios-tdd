@@ -1,4 +1,4 @@
-package desafios.G_ImpressaoDadosEstabelecimento;
+package br.tec.db.desafios.G_ImpressaoDadosEstabelecimento;
 
 /**
  * Faça com que essa classe tenha informações e inteligência para imprimir o
