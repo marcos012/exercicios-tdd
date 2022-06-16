@@ -1,6 +1,5 @@
-import br.tec.db.exemplo.Formatador;
 import org.junit.Test;
-
+import exemplo.Formatador;
 import static org.junit.Assert.assertEquals;
 
 public class FormatadorTest {
