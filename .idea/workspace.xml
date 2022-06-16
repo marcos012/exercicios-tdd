@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25472db2-addf-41ce-b90c-43533eaa5463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/A_fizzBuzz/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/B_contadorPalavras/ContadorPalavras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/C_Jokenpo/Jokenpo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/D_media/Media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/E_FiltroAdultos/FiltroAdultos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/F_FormatarUsername/FormatadorUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/desafios/G_ImpressaoDadosEstabelecimento/EstabelecimentoComercial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/br/tec/db/exemplo/Formatador.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +37,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="otimizacoes2" />
-                    <option name="lastUsedInstant" value="1655344643" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="otimizacoes" />
-                    <option name="lastUsedInstant" value="1655344642" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1655394469" />
                   </RecentBranch>
                 </list>
               </option>
@@ -120,13 +125,29 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FormatadorTest.deveFormatarNome">
+  <component name="RunManager" selected="JUnit.FormatadorTest">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercicios-tdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="br.tec.db.Main" />
       <module name="teste" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercicios-tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormatadorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,11 +163,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.FormatadorTest" />
       <item itemvalue="JUnit.FormatadorTest.deveFormatarNome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FormatadorTest" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.FormatadorTest.deveFormatarNome" />
         <item itemvalue="Application.Main" />
       </list>
