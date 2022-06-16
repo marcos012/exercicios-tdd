@@ -1,4 +1,4 @@
-package desafios.F_FormatarUsername;
+package br.tec.db.desafios.F_FormatarUsername;
 
 /**
  * Formatar USERNAME:

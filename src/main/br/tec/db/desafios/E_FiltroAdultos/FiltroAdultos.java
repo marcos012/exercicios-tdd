@@ -1,4 +1,4 @@
-package desafios.E_FiltroAdultos;
+package br.tec.db.desafios.E_FiltroAdultos;
 
 /**
  * Filtrar adultos:
