@@ -1,4 +1,4 @@
-package desafios.C_Jokenpo;
+package br.tec.db.desafios.C_Jokenpo;
 
 /**
  * Escreva um algoritimo que receba duas opcoes entre PEDRA, PAPEL ou TESOURA  e retorne qual jogador ganhou

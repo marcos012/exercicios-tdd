@@ -1,4 +1,4 @@
-package desafios.B_contadorPalavras;
+package br.tec.db.desafios.B_contadorPalavras;
 
 /**
 * Contador de palavras:

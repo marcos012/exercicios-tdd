@@ -1,7 +1,7 @@
-package desafios.Z_exemplo;
+package br.tec.db.exemplo;
 
 public class Formatador {
     public String formatarPalavra(String nome) {
-        return "";
+        return nome.toUpperCase();
     }
 }
